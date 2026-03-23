@@ -352,21 +352,6 @@ Full-stack digital banking system with **ACID-compliant transaction management**
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════ -->
-<!--              CONTRIBUTION SNAKE                           -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
-## 🐍 &nbsp;Contribution Snake
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-</div>
-
-<br/>
-
-<!-- ══════════════════════════════════════════════════════════ -->
 <!--                    FOOTER                                 -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
