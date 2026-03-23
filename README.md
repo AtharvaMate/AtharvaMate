@@ -83,24 +83,6 @@ class AtharvaDeepakMate:
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════ -->
-<!--                   GITHUB TROPHIES                         -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
-## 🏆 &nbsp;GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=AtharvaMate&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00d4ff,100:7c3aed&height=3&section=header" width="100%"/>
-
-<br/>
-
-<!-- ══════════════════════════════════════════════════════════ -->
 <!--                  FEATURED PROJECTS                        -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
