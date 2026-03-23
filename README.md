@@ -26,8 +26,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/atharvamate2004)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atharvamate2004@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AtharvaMate)
-[![CodeChef](https://img.shields.io/badge/CodeChef_2%E2%98%85-%235B4638.svg?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com)
+[![CodeChef](https://img.shields.io/badge/CodeChef_2%E2%98%85-%235B4638.svg?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/atharvamate)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/atharvamate2004/)
 
 </div>
 
