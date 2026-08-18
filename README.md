@@ -421,15 +421,7 @@ Full-stack digital banking system with **ACID-compliant transaction management**
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AtharvaMate&show_icons=true&theme=tokyonight&border_color=ff3b30&border_radius=12&rank_icon=percentile&include_all_commits=true&count_private=true&bg_color=140505&title_color=ff3b30&icon_color=ff6b4a&text_color=ffb3a7" height="170"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvaMate&layout=compact&theme=tokyonight&border_color=ff3b30&border_radius=12&langs_count=8&bg_color=140505&title_color=ff3b30&text_color=ffb3a7" height="170"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=AtharvaMate&theme=tokyonight&border=ff3b30&ring=ff3b30&fire=ffb300&currStreakLabel=ff3b30&sideLabels=ffb3a7&dates=ffb3a7&background=140505&border_radius=12" height="170"/>
-
-</div>
+<img src="https://streak-stats.demolab.com/?user=AtharvaMate&theme=tokyonight&border=ff3b30&ring=ff3b30&fire=ffb300&currStreakLabel=ff3b30&sideLabels=ffb3a7&dates=ffb3a7&background=140505&border_radius=12" height="170"/> </div>
 
 <br/>
 
@@ -463,6 +455,7 @@ Full-stack digital banking system with **ACID-compliant transaction management**
 |:--:|:--|:--|:--|
 | 🧠 | Machine Learning Specialization | IBM / Coursera | Supervised & unsupervised learning, feature engineering, model evaluation |
 | 🤖 | TensorFlow Developer Specialization | DeepLearning.AI / Coursera | CNNs, Transfer Learning, RNNs, NLP workflows |
+| 🟠 | AWS Certified AI Practitioner | Amazon Web Services | Cloud-based AI/ML services, responsible AI, GenAI fundamentals on AWS |
 | ☁️ | AI/ML Virtual Internship | Google for Developers · Jul–Sep 2025 | TensorFlow model development, data preprocessing, fine-tuning |
 
 </div>
